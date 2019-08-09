@@ -1,0 +1,9 @@
+{
+    "dinner": 
+      [
+          {"food": "Chicken","price": "???", "calories":"500>?"},
+          {"food": "Pizza","price": "$8?","calories":"600>?"},
+          {"food": "Curried Something","price": "$20?","calories":"Don't care it's good"}
+          
+    ]
+  }
